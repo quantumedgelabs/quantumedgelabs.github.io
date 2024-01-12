@@ -1,0 +1,400 @@
+@media only screen and (max-width: 1400px) {
+    header .nav ul li {
+        margin-left: 35px;
+    }
+}
+
+@media only screen and (max-width: 1360px) {
+    .contact-info a {
+        font-size: 18px;
+    }
+
+    .banner-img {
+        max-width: 500px;
+    }
+}
+@media only screen and (max-width: 1200px){
+   .banner-img,
+    .vision-img,
+    .about-img,
+    .contact-info .info,
+    .contact-img,
+    .f-logo,
+    .dir,
+    .footer-social {
+        transform: unset !important;
+    }
+
+    .about-img,
+    .contact-img {
+        margin: 0 15px;
+    }
+    .contact-information  .contact-info{
+        flex-direction: row !important;
+    }
+    .contact-info {
+        flex-direction: column !important;
+    }
+
+    .contact-info .info {
+        margin: 0 0 15px 0;
+    }
+
+    .contact-us {
+        align-items: flex-start !important;
+    }
+
+    .rtc-contact:before {
+        display: none !important;
+    }
+
+    .top-header .get-in-touch {
+        display: none !important;
+    }
+
+    .banner-img {
+        max-width: 475px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .care-bottom h2 span{
+        font-size:40px;
+    }
+    .care-bottom h2{
+        font-size: 21px;
+    }
+    .pr-img img{
+        max-width: 175px;
+    }
+    .team .block .image svg{
+        max-width: 350px;
+    }
+    .inner-banner .inner-image{
+        margin:25px auto 15px auto;
+    }
+    .inner-banner .banner-info p{
+        margin-bottom: 35px;
+    }
+    .inner-banner .banner-info h1{
+        padding-top: 25px;
+    }
+    .vision p{
+        text-align: center;
+    }
+    .vision-right h2{
+        text-align: center;
+    }
+
+    .vision-content,.about-content{
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+    }
+    .hamburger-menu {
+        display: block;
+    }
+
+    .hamburger-menu.open span {
+        background: #fff;
+    }
+
+    .nav ul {
+        position: fixed;
+        top: 0;
+        right: -275px;
+        width: 275px;
+        bottom: 0;
+        z-index: 9999;
+        height: 50%;
+        background: #424242;
+        flex-direction: column;
+        align-items: flex-start !important;
+        justify-content: flex-start !important;
+        padding-top: 100px;
+        transition: all 0.5s ease;
+    }
+
+    .nav ul.show {
+        right: 0;
+    }
+
+    .nav ul li {
+        margin-left: 25px;
+        margin-bottom: 15px;
+    }
+
+    .nav ul li a {
+        color: #fff !important;
+    }
+
+    .banner-info {
+        text-align: center;
+    }
+
+    .banner-img {
+        max-width: 400px;
+    }
+
+    .banner .get-in-touch {
+        margin: 25px 0 50px 0;
+    }
+
+    .banner-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .banner h2 {
+        font-size: 35px;
+        margin-top: 25px;
+        margin-bottom: 0;
+    }
+
+    .typed-text {
+        font-size: 45px;
+    }
+
+    .top-header .get-in-touch {
+        display: block !important;
+    }
+
+    .about-img {
+        max-width: 400px;
+        margin: 25px auto;
+        height: 500px;
+        bottom: 0;
+    }
+
+    .about-img img {
+        width: auto;
+        height: 100%;
+    }
+
+    .about, .projects,.testimotional{
+        text-align: center;
+    }
+
+    .about h2,.project-heading h2 {
+        padding-left: 0 !important;
+        margin-bottom: 50px;
+    }
+
+    .about h2:after,.project-heading h2:after,.testimotional h2:after,.contact-us h2:after {
+        left: 50%;
+        transform: translate(-50%);
+        width: 1px;
+        height: 35px;
+        bottom: 15px;
+        top: 35px;
+    }
+    .project-heading h2,.testimotional h2,.contact-us h2{
+        margin-bottom: 75px;
+    }
+    .rtc-contact{
+        text-align: center;
+    }
+    .rtc-projects{
+        padding-top: 25px;
+    }
+    .contact-us h2,.testimotional h2{
+        padding-left: 0 !important;
+    }
+    .contact-info .info{
+       justify-content: center !important;
+    }
+    .contact-img {
+        max-width: 400px;
+        margin: 25px auto;
+        height: 500px;
+        bottom: 0;
+    }
+
+    .contact-img img {
+        width: auto;
+        height: 100%;
+    }
+    footer h2{
+        text-align: center;
+    }
+    footer ul{
+        display: flex;
+        justify-content: flex-start;
+        margin: 25px 0 !important;
+        left: 0 !important;
+    }
+      footer ul li{
+        margin:0 10px;
+      }
+
+    footer .dir p{
+        max-width: 100%;
+    }
+     .top-header .get-in-touch{
+        position: relative;
+        right: 75px;
+    }
+    .service-list .block{
+        min-height: unset !important;
+    }
+
+}
+@media only screen and (max-width: 767px){
+    .rtc-projects .owl-item.active.center{
+    margin-top: 0 !important;
+}
+   .footer-bottom{
+    text-align: center;
+    justify-content: center;
+   }
+    .contact-information a{
+        font-size: 19px;
+    }
+    .contact-information h2 {
+    font-size: 30px;
+}
+    footer{
+        text-align: center;
+    }
+    .contact-information{
+        text-align: center;
+    }
+     .contact-information  .contact-info{
+        flex-direction: column !important;
+    }
+    .position .block .show-more,.position .block span,.position .block h3{
+        text-align: center;
+    }
+         .career .get-in-touch{
+    max-width: 250px;
+    margin: 25px auto;
+    justify-content: center;
+  }
+  .position .block .info,.position .block{
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 600px){
+    .about-page,.team,.culture,.service-list-sec,.career,.blog,.contact-information{
+        padding: 35px 0;
+    }
+    .write{
+        margin-top: 15px;
+    }
+    .drop {
+    margin-top: 25px;
+    }
+    .contact-information h2{
+        margin-bottom: 15px;
+    }
+    .footer-bottom{
+        margin-top: 0 !important;
+    }
+    .testimotional h3,.about h3,.contact-us h3{
+        font-size: 25px;
+    }
+    .project-heading h3{
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .technologies{
+        padding: 35px 0;
+    }
+    .tech .block{
+        margin: 10px;
+    }
+    .care-bottom h2 span {
+    font-size: 30px;
+    line-height: 40px;
+}
+    .care-bottom .visit{
+        flex-direction: column;
+        margin-top: 25px;
+    }
+    .care-bottom h2{
+        margin-bottom: 25px;
+    }
+    .care-bottom .service-btm{
+        padding-left: 0;
+        border: 0;
+        margin-top: 25px;
+    }
+  footer ul{
+    justify-content: center;
+  }
+  footer ul li{
+    margin-bottom: 15px;
+  }
+  .logo img{
+    max-width: 150px;
+  }
+  .top-header .get-in-touch{
+    padding: 7px 15px;
+  }
+  .vision-img img{
+    max-width: 175px;
+  }
+  .vl-img img{
+    max-width:150px !important;
+  }
+  .f-logo img{
+    max-width: 135px;
+    margin-right: 20px;
+  }
+  .dir img{
+    margin-left: 0 !important;
+  }
+  .about,.contact-us{
+    padding-top: 35px;
+  }
+  .vision-last{
+    margin-bottom: 35px;
+  }
+  .projects,.testimotional{
+    padding: 35px 0;
+  }
+  .contact-us form{
+    margin-bottom: 25px;
+  }
+  footer{
+    padding: 35px 0 25px 0;
+  }
+}
+
+
+@media only screen and (max-width: 480px){
+  .get-in-touch img{
+    margin-left: 3px !important;
+    top:3px;
+  }
+  .top-header .get-in-touch{
+    padding:4px 9px;
+    font-size: 13px;
+    line-height: 21px;
+  }
+  .logo img {
+    max-width: 135px;
+}
+.footer-social li{
+    margin: 0 !important;
+}
+.banner-img{
+    max-width: 325px;
+}
+.about-img,.contact-img{
+   max-width: 348px;
+    margin: 25px auto;
+    height: 435px;
+    bottom: 0;
+}
+
+.project-block{
+    height: 350px;
+}
+.inner-banner .inner-image{
+    height: 300px;
+}
+.inner-banner .banner-info h1{
+    font-size: 30px;
+}
+}
