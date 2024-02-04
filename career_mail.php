@@ -112,7 +112,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <tbody>
             <tr>
             <div class="logo" style="text-align:center;background: #f1f1f1;
-                  padding: 16px; "><img style="width:35%" src="http://intellyze.hol.es/quantum-edge/img/logo.png" alt=""></div>
+                  padding: 16px; "><img style="width:35%" src="//qelabs.in/img/logo.png" alt=""></div>
                 <div style="margin:1px 0;
                   padding:25px;background: linear-gradient(0deg, rgba(118,118,118) 55%, rgba(241,241,241) 100%);text-shadow: 1px 1px #333; font-family:Helvetica; background-color:#284ab1;">
                   <h1 style="font-size:19px; font-family:Helvetica; color: #fff;">Dear <span>'.$name.',</span></h1>
