@@ -1,0 +1,19 @@
+:root {
+  --font-family: "Roboto", system-ui, sans-serif;
+
+  --clr-gray-400: hsl(0, 0%, 98%);
+  --clr-gray-500: hsl(0, 0%, 95%);
+  --clr-gray-600: hsl(0, 0%, 69%);
+  --clr--gray-800: hsl(0, 0%, 26%);
+  --clr-highlight: hsl(27, 89%, 48%);
+}
+
+:root {
+  --bg-primary: hsl(0, 0%, 100%);
+  --clr-primary: hsl(0, 0%, 20%);
+}
+
+:root.night {
+  --bg-primary: hsl(0, 0%, 100%);
+  --clr-primary: hsl(0, 0%, 20%);
+}
