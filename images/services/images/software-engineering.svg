@@ -1,0 +1,38 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#FAFAFA"/>
+  
+  <!-- Architecture Diagram -->
+  <rect x="50" y="50" width="80" height="60" rx="8" fill="none" stroke="#2C3E50" stroke-width="3"/>
+  <rect x="270" y="50" width="80" height="60" rx="8" fill="none" stroke="#2C3E50" stroke-width="3"/>
+  <rect x="160" y="180" width="80" height="60" rx="8" fill="none" stroke="#2C3E50" stroke-width="3"/>
+  
+  <!-- Connection Lines -->
+  <line x1="130" y1="80" x2="270" y2="80" stroke="#34495E" stroke-width="2"/>
+  <line x1="90" y1="110" x2="200" y2="180" stroke="#34495E" stroke-width="2"/>
+  <line x1="310" y1="110" x2="200" y2="180" stroke="#34495E" stroke-width="2"/>
+  
+  <!-- Connection Dots -->
+  <circle cx="130" cy="80" r="4" fill="#2C3E50"/>
+  <circle cx="270" cy="80" r="4" fill="#2C3E50"/>
+  <circle cx="200" cy="180" r="4" fill="#2C3E50"/>
+  
+  <!-- Labels -->
+  <text x="90" y="85" text-anchor="middle" fill="#2C3E50" font-family="Arial" font-size="14" font-weight="bold">API</text>
+  <text x="310" y="85" text-anchor="middle" fill="#2C3E50" font-family="Arial" font-size="14" font-weight="bold">UI</text>
+  <text x="200" y="215" text-anchor="middle" fill="#2C3E50" font-family="Arial" font-size="14" font-weight="bold">DB</text>
+  
+  <!-- Code Brackets -->
+  <text x="30" y="140" fill="#7F8C8D" font-family="monospace" font-size="24" font-weight="bold">{</text>
+  <text x="360" y="140" fill="#7F8C8D" font-family="monospace" font-size="24" font-weight="bold">}</text>
+  
+  <!-- Floating Geometric Elements -->
+  <polygon points="350,120 360,140 340,140" fill="none" stroke="#95A5A6" stroke-width="2"/>
+  <rect x="20" y="200" width="15" height="15" rx="3" fill="none" stroke="#BDC3C7" stroke-width="2"/>
+  <circle cx="370" cy="200" r="8" fill="none" stroke="#7F8C8D" stroke-width="2"/>
+  
+  <!-- Network nodes -->
+  <circle cx="90" cy="140" r="3" fill="#34495E"/>
+  <circle cx="200" cy="120" r="3" fill="#34495E"/>
+  <circle cx="310" cy="140" r="3" fill="#34495E"/>
+</svg>
