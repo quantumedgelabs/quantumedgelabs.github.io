@@ -1,0 +1,42 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Design Canvas -->
+  <rect x="80" y="60" width="240" height="180" rx="12" fill="white" stroke="#99CCFF" stroke-width="2"/>
+  
+  <!-- Design Elements -->
+  <rect x="100" y="80" width="200" height="40" rx="4" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+  <rect x="100" y="130" width="80" height="60" rx="6" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+  <rect x="190" y="130" width="110" height="30" rx="4" fill="#FFE5E5" stroke="#FF9999"/>
+  <rect x="190" y="170" width="110" height="20" rx="4" fill="#E8F5E8" stroke="#A3D9A3"/>
+  
+  <!-- Color Palette (pastel colors) -->
+  <circle cx="100" cy="210" r="6" fill="#FFB3B3"/>
+  <circle cx="120" cy="210" r="6" fill="#B3D9FF"/>
+  <circle cx="140" cy="210" r="6" fill="#B3E6B3"/>
+  <circle cx="160" cy="210" r="6" fill="#FFEB9C"/>
+  <circle cx="180" cy="210" r="6" fill="#E6CCFF"/>
+  
+  <!-- Design Tools -->
+  <rect x="30" y="100" width="30" height="80" rx="6" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+  <circle cx="45" cy="115" r="3" fill="#FF9999"/>
+  <circle cx="45" cy="135" r="3" fill="#99CCFF"/>
+  <circle cx="45" cy="155" r="3" fill="#A3D9A3"/>
+  <circle cx="45" cy="175" r="3" fill="#FFCC99"/>
+  
+  <!-- Pen Tool -->
+  <line x1="340" y1="80" x2="360" y2="60" stroke="#FF9999" stroke-width="2"/>
+  <circle cx="340" cy="80" r="3" fill="#FF9999"/>
+  
+  <!-- Grid Lines -->
+  <line x1="340" y1="120" x2="380" y2="120" stroke="#D6E6FF" stroke-width="1"/>
+  <line x1="340" y1="140" x2="380" y2="140" stroke="#D6E6FF" stroke-width="1"/>
+  <line x1="340" y1="160" x2="380" y2="160" stroke="#D6E6FF" stroke-width="1"/>
+  <line x1="350" y1="110" x2="350" y2="170" stroke="#D6E6FF" stroke-width="1"/>
+  <line x1="370" y1="110" x2="370" y2="170" stroke="#D6E6FF" stroke-width="1"/>
+  
+  <!-- Typography -->
+  <text x="200" y="105" text-anchor="middle" fill="#0066CC" font-family="Arial" font-size="16" font-weight="bold">HEADER</text>
+  
+  <!-- Wireframe elements -->
+  <rect x="105" y="145" width="15" height="15" rx="2" fill="#E6F3FF" stroke="#B3D9FF"/>
+  <rect x="105" y="165" width="15" height="8" rx="1" fill="#F0FFF0" stroke="#B3E6B3"/>
+</svg>

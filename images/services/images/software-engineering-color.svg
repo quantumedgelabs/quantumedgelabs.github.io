@@ -1,0 +1,35 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Architecture Diagram -->
+  <rect x="50" y="50" width="80" height="60" rx="8" fill="#E5F3FF" stroke="#99CCFF" stroke-width="3"/>
+  <rect x="270" y="50" width="80" height="60" rx="8" fill="#F0E5FF" stroke="#CC99FF" stroke-width="3"/>
+  <rect x="160" y="180" width="80" height="60" rx="8" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="3"/>
+  
+  <!-- Connection Lines -->
+  <line x1="130" y1="80" x2="270" y2="80" stroke="#B3E6B3" stroke-width="2"/>
+  <line x1="90" y1="110" x2="200" y2="180" stroke="#B3E6B3" stroke-width="2"/>
+  <line x1="310" y1="110" x2="200" y2="180" stroke="#B3E6B3" stroke-width="2"/>
+  
+  <!-- Connection Dots -->
+  <circle cx="130" cy="80" r="4" fill="#99CCFF"/>
+  <circle cx="270" cy="80" r="4" fill="#CC99FF"/>
+  <circle cx="200" cy="180" r="4" fill="#A3D9A3"/>
+  
+  <!-- Labels -->
+  <text x="90" y="85" text-anchor="middle" fill="#0066CC" font-family="Arial" font-size="14" font-weight="bold">API</text>
+  <text x="310" y="85" text-anchor="middle" fill="#6600CC" font-family="Arial" font-size="14" font-weight="bold">UI</text>
+  <text x="200" y="215" text-anchor="middle" fill="#006600" font-family="Arial" font-size="14" font-weight="bold">DB</text>
+  
+  <!-- Code Brackets -->
+  <text x="30" y="140" fill="#FF9999" font-family="monospace" font-size="24" font-weight="bold">{</text>
+  <text x="360" y="140" fill="#FF9999" font-family="monospace" font-size="24" font-weight="bold">}</text>
+  
+  <!-- Floating Geometric Elements -->
+  <polygon points="350,120 360,140 340,140" fill="#FFFACD" stroke="#FFEB9C" stroke-width="2"/>
+  <rect x="20" y="200" width="15" height="15" rx="3" fill="#FFE5E5" stroke="#FF9999" stroke-width="2"/>
+  <circle cx="370" cy="200" r="8" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+  
+  <!-- Network nodes -->
+  <circle cx="90" cy="140" r="3" fill="#99CCFF"/>
+  <circle cx="200" cy="120" r="3" fill="#FFCC99"/>
+  <circle cx="310" cy="140" r="3" fill="#CC99FF"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Innovation lightbulb -->
+  <circle cx="100" cy="80" r="25" fill="#FFFACD" stroke="#FFEB9C" stroke-width="3"/>
+  
+  <!-- Filament inside bulb -->
+  <path d="M85 70 Q100 75 115 70" stroke="#FFD700" stroke-width="2" fill="none"/>
+  <path d="M85 80 Q100 85 115 80" stroke="#FFD700" stroke-width="2" fill="none"/>
+  <path d="M85 90 Q100 95 115 90" stroke="#FFD700" stroke-width="2" fill="none"/>
+  
+  <!-- Base of lightbulb -->
+  <rect x="90" y="105" width="20" height="15" fill="#E8E8E8" stroke="#C0C0C0" stroke-width="2"/>
+  <rect x="88" y="120" width="24" height="8" fill="#E8E8E8" stroke="#C0C0C0" stroke-width="2"/>
+  
+  <!-- Innovation sparks -->
+  <circle cx="70" cy="50" r="3" fill="#FFE5CC"/>
+  <circle cx="130" cy="45" r="2" fill="#E5F3FF"/>
+  <circle cx="140" cy="70" r="3" fill="#F0E5FF"/>
+  <circle cx="60" cy="90" r="2" fill="#FFE5E5"/>
+  
+  <!-- Radiating innovation lines -->
+  <path d="M75 30 L80 40" stroke="#FFD9CC" stroke-width="2"/>
+  <path d="M125 25 L120 35" stroke="#FFD9CC" stroke-width="2"/>
+  <path d="M150 55 L140 60" stroke="#FFD9CC" stroke-width="2"/>
+  <path d="M155 85 L145 80" stroke="#FFD9CC" stroke-width="2"/>
+  <path d="M45 85 L55 80" stroke="#FFD9CC" stroke-width="2"/>
+  <path d="M50 55 L60 60" stroke="#FFD9CC" stroke-width="2"/>
+  
+  <!-- Gear representing process innovation -->
+  <circle cx="60" cy="150" r="18" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+  <circle cx="60" cy="150" r="10" fill="#F0F8FF" stroke="#B3D9FF" stroke-width="2"/>
+  <rect x="54" y="132" width="12" height="6" fill="#D6E6FF"/>
+  <rect x="54" y="162" width="12" height="6" fill="#D6E6FF"/>
+  <rect x="42" y="144" width="6" height="12" fill="#D6E6FF"/>
+  <rect x="72" y="144" width="6" height="12" fill="#D6E6FF"/>
+  
+  <!-- Digital innovation symbols -->
+  <rect x="120" y="140" width="20" height="20" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+  <rect x="125" y="145" width="4" height="4" fill="#E6CCFF"/>
+  <rect x="131" y="145" width="4" height="4" fill="#D9B3FF"/>
+  <rect x="125" y="151" width="4" height="4" fill="#D9B3FF"/>
+  <rect x="131" y="151" width="4" height="4" fill="#E6CCFF"/>
+  
+  <!-- Innovation arrow -->
+  <path d="M80 140 L110 140" stroke="#FF9999" stroke-width="3" marker-end="url(#arrowhead)"/>
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#FF9999"/>
+    </marker>
+  </defs>
+</svg>

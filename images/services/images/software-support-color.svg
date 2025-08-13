@@ -1,0 +1,59 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Support Dashboard -->
+  <rect x="80" y="60" width="240" height="180" rx="12" fill="white" stroke="#99CCFF" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="80" y="60" width="240" height="40" rx="12" fill="#E5F3FF"/>
+  <text x="200" y="83" text-anchor="middle" fill="#0066CC" font-family="Arial" font-size="14" font-weight="bold">SUPPORT DASHBOARD</text>
+  
+  <!-- Status Indicators -->
+  <circle cx="110" cy="130" r="18" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="3"/>
+  <text x="110" y="136" text-anchor="middle" fill="#006600" font-family="Arial" font-size="12" font-weight="bold">OK</text>
+  
+  <circle cx="200" cy="130" r="18" fill="#FFFACD" stroke="#FFEB9C" stroke-width="3"/>
+  <text x="200" y="136" text-anchor="middle" fill="#CC9900" font-family="Arial" font-size="10" font-weight="bold">WARN</text>
+  
+  <circle cx="290" cy="130" r="18" fill="#FFE5E5" stroke="#FF9999" stroke-width="3"/>
+  <text x="290" y="136" text-anchor="middle" fill="#CC0000" font-family="Arial" font-size="12" font-weight="bold">ERR</text>
+  
+  <!-- System Status -->
+  <rect x="100" y="170" width="200" height="8" rx="4" fill="none" stroke="#D6E6FF" stroke-width="1"/>
+  <rect x="100" y="170" width="160" height="8" rx="4" fill="#B3E6B3"/>
+  <text x="200" y="165" text-anchor="middle" fill="#006600" font-family="Arial" font-size="10">System Health: 80%</text>
+  
+  <!-- Support Tickets -->
+  <rect x="100" y="190" width="60" height="30" rx="4" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="2"/>
+  <text x="130" y="202" text-anchor="middle" fill="#006600" font-family="Arial" font-size="8">RESOLVED</text>
+  <text x="130" y="215" text-anchor="middle" fill="#006600" font-family="Arial" font-size="12" font-weight="bold">24</text>
+  
+  <rect x="170" y="190" width="60" height="30" rx="4" fill="#FFFACD" stroke="#FFEB9C" stroke-width="2"/>
+  <text x="200" y="202" text-anchor="middle" fill="#CC9900" font-family="Arial" font-size="8">PENDING</text>
+  <text x="200" y="215" text-anchor="middle" fill="#CC9900" font-family="Arial" font-size="12" font-weight="bold">3</text>
+  
+  <rect x="240" y="190" width="60" height="30" rx="4" fill="#FFE5E5" stroke="#FF9999" stroke-width="2"/>
+  <text x="270" y="202" text-anchor="middle" fill="#CC0000" font-family="Arial" font-size="8">URGENT</text>
+  <text x="270" y="215" text-anchor="middle" fill="#CC0000" font-family="Arial" font-size="12" font-weight="bold">1</text>
+  
+  <!-- Support Tools -->
+  <circle cx="50" cy="120" r="15" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+  <text x="50" y="125" text-anchor="middle" fill="#0066CC" font-family="monospace" font-size="10" font-weight="bold">24/7</text>
+  
+  <rect x="350" y="110" width="30" height="20" rx="4" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+  <text x="365" y="123" text-anchor="middle" fill="#6600CC" font-family="Arial" font-size="8" font-weight="bold">CHAT</text>
+  
+  <!-- Phone Support -->
+  <circle cx="50" cy="180" r="12" fill="#FFE5CC" stroke="#FFCC99" stroke-width="2"/>
+  <path d="M45 175 Q50 170 55 175 Q50 180 45 175" fill="#CC9900"/>
+  
+  <!-- Email Support -->
+  <rect x="340" y="170" width="20" height="15" rx="2" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="2"/>
+  <polygon points="340,170 350,178 360,170" fill="none" stroke="#A3D9A3" stroke-width="1"/>
+  
+  <!-- Monitoring Waves -->
+  <path d="M60 250 Q80 240 100 250 Q120 260 140 250" stroke="#B3E6B3" stroke-width="2" fill="none"/>
+  <path d="M260 250 Q280 240 300 250 Q320 260 340 250" stroke="#D6E6FF" stroke-width="2" fill="none"/>
+  
+  <!-- Additional monitoring elements -->
+  <rect x="60" y="230" width="80" height="4" rx="2" fill="#E8F5E8" stroke="#B3E6B3"/>
+  <rect x="260" y="230" width="80" height="4" rx="2" fill="#E5F3FF" stroke="#99CCFF"/>
+</svg>

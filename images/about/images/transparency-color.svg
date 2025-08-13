@@ -1,0 +1,41 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Transparency glass/window -->
+  <rect x="60" y="50" width="80" height="60" rx="4" fill="#F0F8FF" stroke="#99CCFF" stroke-width="3"/>
+  
+  <!-- Glass grid representing clarity -->
+  <line x1="100" y1="50" x2="100" y2="110" stroke="#D6E6FF" stroke-width="1"/>
+  <line x1="60" y1="80" x2="140" y2="80" stroke="#D6E6FF" stroke-width="1"/>
+  
+  <!-- Clear view through glass -->
+  <circle cx="85" cy="70" r="6" fill="#E6F3FF" stroke="#80B3FF" stroke-width="2"/>
+  <circle cx="115" cy="90" r="4" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+  
+  <!-- Magnifying glass for clarity -->
+  <circle cx="150" cy="60" r="12" fill="#FFE5E5" stroke="#FF9999" stroke-width="3"/>
+  <line x1="160" y1="70" x2="170" y2="80" stroke="#FF9999" stroke-width="3"/>
+  
+  <!-- Information flow lines -->
+  <path d="M40 130 L80 130" stroke="#A3D9A3" stroke-width="2"/>
+  <path d="M40 140 L90 140" stroke="#B3E6FF" stroke-width="2"/>
+  <path d="M40 150 L85 150" stroke="#E6CCFF" stroke-width="2"/>
+  
+  <path d="M120 130 L160 130" stroke="#A3D9A3" stroke-width="2"/>
+  <path d="M110 140 L160 140" stroke="#B3E6FF" stroke-width="2"/>
+  <path d="M115 150 L160 150" stroke="#E6CCFF" stroke-width="2"/>
+  
+  <!-- Open book representing open communication -->
+  <path d="M70 160 Q100 150 130 160 Q100 170 70 160" fill="#FFFACD" stroke="#FFEB9C" stroke-width="2"/>
+  <line x1="100" y1="155" x2="100" y2="165" stroke="#FFD700" stroke-width="1"/>
+  
+  <!-- Communication bubbles -->
+  <circle cx="50" cy="40" r="8" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+  <circle cx="45" cy="35" r="3" fill="#D6E6FF"/>
+  <circle cx="50" cy="35" r="2" fill="#B3D9FF"/>
+  <circle cx="55" cy="35" r="1" fill="#99CCFF"/>
+  
+  <circle cx="150" cy="40" r="8" fill="#FFE5E5" stroke="#FF9999" stroke-width="2"/>
+  <circle cx="145" cy="35" r="3" fill="#FFD9D9"/>
+  <circle cx="150" cy="35" r="2" fill="#FFB3B3"/>
+  <circle cx="155" cy="35" r="1" fill="#FF9999"/>
+  
+</svg>
