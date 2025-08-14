@@ -1,0 +1,56 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#techGradient)"/>
+  
+  <!-- Brand Logo Area -->
+  <rect x="50" y="50" width="120" height="40" rx="8" fill="#2C3E50" opacity="0.8"/>
+  <text x="110" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">QE LABS</text>
+  
+  <!-- Technology Grid -->
+  <g transform="translate(150, 180)">
+    <!-- Row 1 -->
+    <rect x="0" y="0" width="180" height="80" rx="12" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+    <text x="90" y="50" text-anchor="middle" fill="#0066CC" font-family="Arial, sans-serif" font-size="24" font-weight="bold">.NET</text>
+    
+    <rect x="200" y="0" width="180" height="80" rx="12" fill="#FFE5E5" stroke="#FF9999" stroke-width="2"/>
+    <text x="290" y="50" text-anchor="middle" fill="#CC0000" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Angular</text>
+    
+    <rect x="400" y="0" width="180" height="80" rx="12" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="2"/>
+    <text x="490" y="50" text-anchor="middle" fill="#006600" font-family="Arial, sans-serif" font-size="24" font-weight="bold">React</text>
+    
+    <rect x="600" y="0" width="180" height="80" rx="12" fill="#FFFACD" stroke="#FFEB9C" stroke-width="2"/>
+    <text x="690" y="50" text-anchor="middle" fill="#CC9900" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Flutter</text>
+    
+    <!-- Row 2 -->
+    <rect x="0" y="100" width="180" height="80" rx="12" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+    <text x="90" y="150" text-anchor="middle" fill="#6600CC" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Blazor</text>
+    
+    <rect x="200" y="100" width="180" height="80" rx="12" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+    <text x="290" y="150" text-anchor="middle" fill="#0066CC" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Azure</text>
+    
+    <rect x="400" y="100" width="180" height="80" rx="12" fill="#FFE5CC" stroke="#FFCC99" stroke-width="2"/>
+    <text x="490" y="150" text-anchor="middle" fill="#CC6600" font-family="Arial, sans-serif" font-size="24" font-weight="bold">AWS</text>
+    
+    <rect x="600" y="100" width="180" height="80" rx="12" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="2"/>
+    <text x="690" y="150" text-anchor="middle" fill="#006600" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Node.js</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="450" text-anchor="middle" fill="#2C3E50" font-family="Arial, sans-serif" font-size="72" font-weight="bold">Technologies</text>
+  <text x="600" y="500" text-anchor="middle" fill="#5D6D7E" font-family="Arial, sans-serif" font-size="28">Modern Stack • Cloud Native • Cross Platform</text>
+  
+  <!-- Decorative Tech Elements -->
+  <circle cx="950" cy="150" r="8" fill="#99CCFF" opacity="0.4"/>
+  <circle cx="1050" cy="200" r="6" fill="#FF9999" opacity="0.4"/>
+  <circle cx="120" cy="400" r="10" fill="#A3D9A3" opacity="0.4"/>
+  <rect x="1000" y="400" width="12" height="12" rx="2" fill="#FFEB9C" opacity="0.4"/>
+  <polygon points="80,500 90,480 100,500 90,520" fill="#CC99FF" opacity="0.4"/>
+  
+  <defs>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8F9FA;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#E9ECEF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#DEE2E6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

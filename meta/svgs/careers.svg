@@ -1,0 +1,81 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#careerGradient)"/>
+  
+  <!-- Brand Logo Area -->
+  <rect x="50" y="50" width="120" height="40" rx="8" fill="#2C3E50" opacity="0.8"/>
+  <text x="110" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">QE LABS</text>
+  
+  <!-- Career Illustration -->
+  <g transform="translate(200, 150)">
+    <!-- Desk -->
+    <rect x="150" y="220" width="300" height="80" rx="8" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="2"/>
+    
+    <!-- Laptop on desk -->
+    <rect x="200" y="180" width="120" height="80" rx="8" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+    <rect x="210" y="190" width="100" height="60" rx="4" fill="#FFFFFF"/>
+    <rect x="220" y="200" width="40" height="3" rx="1" fill="#99CCFF"/>
+    <rect x="220" y="210" width="60" height="3" rx="1" fill="#D6E6FF"/>
+    <rect x="220" y="220" width="50" height="3" rx="1" fill="#E6F3FF"/>
+    
+    <!-- Person at desk -->
+    <circle cx="350" cy="150" r="25" fill="#FFE5E5" stroke="#FF9999" stroke-width="2"/>
+    <circle cx="345" cy="145" r="4" fill="#FF9999"/>
+    <circle cx="355" cy="145" r="4" fill="#FF9999"/>
+    <path d="M340 158 Q350 165 360 158" stroke="#FF9999" stroke-width="2" fill="none"/>
+    
+    <!-- Body -->
+    <rect x="335" y="175" width="30" height="45" rx="15" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+    
+    <!-- Growth arrows -->
+    <path d="M500 100 L500 50" stroke="#A3D9A3" stroke-width="4" marker-end="url(#arrowhead)"/>
+    <path d="M550 120 L550 70" stroke="#99CCFF" stroke-width="4" marker-end="url(#arrowhead2)"/>
+    <path d="M600 110 L600 60" stroke="#FF9999" stroke-width="4" marker-end="url(#arrowhead3)"/>
+    
+    <!-- Growth labels -->
+    <text x="500" y="130" text-anchor="middle" fill="#006600" font-family="Arial, sans-serif" font-size="12" font-weight="bold">SKILLS</text>
+    <text x="550" y="150" text-anchor="middle" fill="#0066CC" font-family="Arial, sans-serif" font-size="12" font-weight="bold">CAREER</text>
+    <text x="600" y="140" text-anchor="middle" fill="#CC0000" font-family="Arial, sans-serif" font-size="12" font-weight="bold">GROWTH</text>
+    
+    <!-- Opportunity icons -->
+    <circle cx="50" cy="100" r="20" fill="#FFFACD" stroke="#FFEB9C" stroke-width="2"/>
+    <text x="50" y="108" text-anchor="middle" fill="#CC9900" font-family="Arial, sans-serif" font-size="14" font-weight="bold">🎯</text>
+    
+    <rect x="80" y="180" width="40" height="40" rx="8" fill="#F0E5FF" stroke="#CC99FF" stroke-width="2"/>
+    <text x="100" y="205" text-anchor="middle" fill="#6600CC" font-family="Arial, sans-serif" font-size="18" font-weight="bold">💡</text>
+    
+    <!-- Team collaboration -->
+    <circle cx="450" cy="280" r="15" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="2"/>
+    <circle cx="480" cy="280" r="15" fill="#E5F3FF" stroke="#99CCFF" stroke-width="2"/>
+    <circle cx="510" cy="280" r="15" fill="#FFE5E5" stroke="#FF9999" stroke-width="2"/>
+    
+    <!-- Connection line between people -->
+    <path d="M465 280 L495 280" stroke="#B3E6B3" stroke-width="2"/>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="450" text-anchor="middle" fill="#2C3E50" font-family="Arial, sans-serif" font-size="72" font-weight="bold">Careers</text>
+  <text x="600" y="500" text-anchor="middle" fill="#5D6D7E" font-family="Arial, sans-serif" font-size="28">Join Our Team • Grow Your Career • Make an Impact</text>
+  
+  <!-- Decorative Elements -->
+  <rect x="950" y="200" width="15" height="15" rx="3" fill="#FFEB9C" opacity="0.5"/>
+  <circle cx="120" cy="500" r="8" fill="#E5F3FF" opacity="0.5"/>
+  <polygon points="1000,450 1010,430 1020,450 1010,470" fill="#A3D9A3" opacity="0.5"/>
+  
+  <defs>
+    <linearGradient id="careerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8F9FA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E8F5E8;stop-opacity:1" />
+    </linearGradient>
+    
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#A3D9A3"/>
+    </marker>
+    <marker id="arrowhead2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#99CCFF"/>
+    </marker>
+    <marker id="arrowhead3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#FF9999"/>
+    </marker>
+  </defs>
+</svg>

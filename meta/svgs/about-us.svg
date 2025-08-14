@@ -1,0 +1,73 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#aboutGradient)"/>
+  
+  <!-- Brand Logo Area -->
+  <rect x="50" y="50" width="120" height="40" rx="8" fill="#2C3E50" opacity="0.8"/>
+  <text x="110" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="16" font-weight="bold">QE LABS</text>
+  
+  <!-- Team Representation -->
+  <g transform="translate(300, 200)">
+    <!-- Central Circle representing unity -->
+    <circle cx="300" cy="115" r="100" fill="#E5F3FF" opacity="0.6" stroke="#99CCFF" stroke-width="2"/>
+    
+    <!-- Team Member Circles -->
+    <circle cx="200" cy="115" r="35" fill="#FFE5E5" stroke="#FF9999" stroke-width="3"/>
+    <circle cx="190" cy="105" r="8" fill="#FF9999"/>
+    <circle cx="210" cy="105" r="8" fill="#FF9999"/>
+    <path d="M185 125 Q200 135 215 125" stroke="#FF9999" stroke-width="2" fill="none"/>
+    
+    <circle cx="400" cy="115" r="35" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="3"/>
+    <circle cx="390" cy="105" r="8" fill="#A3D9A3"/>
+    <circle cx="410" cy="105" r="8" fill="#A3D9A3"/>
+    <path d="M385 125 Q400 135 415 125" stroke="#A3D9A3" stroke-width="2" fill="none"/>
+    
+    <circle cx="250" cy="50" r="30" fill="#F0E5FF" stroke="#CC99FF" stroke-width="3"/>
+    <circle cx="243" cy="43" r="6" fill="#CC99FF"/>
+    <circle cx="257" cy="43" r="6" fill="#CC99FF"/>
+    <path d="M240 55 Q250 62 260 55" stroke="#CC99FF" stroke-width="2" fill="none"/>
+    
+    <circle cx="350" cy="50" r="30" fill="#FFFACD" stroke="#FFEB9C" stroke-width="3"/>
+    <circle cx="343" cy="43" r="6" fill="#FFEB9C"/>
+    <circle cx="357" cy="43" r="6" fill="#FFEB9C"/>
+    <path d="M340 55 Q350 62 360 55" stroke="#FFEB9C" stroke-width="2" fill="none"/>
+    
+    <circle cx="300" cy="180" r="25" fill="#FFE5CC" stroke="#FFCC99" stroke-width="3"/>
+    <circle cx="295" cy="173" r="5" fill="#FFCC99"/>
+    <circle cx="305" cy="173" r="5" fill="#FFCC99"/>
+    <path d="M292 185 Q300 190 308 185" stroke="#FFCC99" stroke-width="2" fill="none"/>
+    
+    <!-- Connection Lines -->
+    <path d="M235 115 L265 115" stroke="#B3E6B3" stroke-width="2" opacity="0.6"/>
+    <path d="M335 115 L365 115" stroke="#B3E6B3" stroke-width="2" opacity="0.6"/>
+    <path d="M270 70 L280 95" stroke="#FFB3D9" stroke-width="2" opacity="0.6"/>
+    <path d="M330 70 L320 95" stroke="#FFB3D9" stroke-width="2" opacity="0.6"/>
+    <path d="M300 155 L300 205" stroke="#D6E6FF" stroke-width="2" opacity="0.6"/>
+    
+    <!-- Values Icons -->
+    <rect x="450" y="80" width="60" height="20" rx="10" fill="#E8F5E8" stroke="#A3D9A3" stroke-width="1"/>
+    <text x="480" y="93" text-anchor="middle" fill="#006600" font-family="Arial, sans-serif" font-size="10" font-weight="bold">GROWTH</text>
+    
+    <rect x="450" y="110" width="60" height="20" rx="10" fill="#FFE5E5" stroke="#FF9999" stroke-width="1"/>
+    <text x="480" y="123" text-anchor="middle" fill="#CC0000" font-family="Arial, sans-serif" font-size="10" font-weight="bold">DIVERSITY</text>
+    
+    <rect x="450" y="140" width="60" height="20" rx="10" fill="#FFFACD" stroke="#FFEB9C" stroke-width="1"/>
+    <text x="480" y="153" text-anchor="middle" fill="#CC9900" font-family="Arial, sans-serif" font-size="10" font-weight="bold">INNOVATION</text>
+  </g>
+  
+  <!-- Title -->
+  <text x="600" y="450" text-anchor="middle" fill="#2C3E50" font-family="Arial, sans-serif" font-size="72" font-weight="bold">About Us</text>
+  <text x="600" y="500" text-anchor="middle" fill="#5D6D7E" font-family="Arial, sans-serif" font-size="28">Diverse Team • Innovative Solutions • Growth Mindset</text>
+  
+  <!-- Decorative Elements -->
+  <circle cx="150" cy="400" r="12" fill="#E5F3FF" opacity="0.5"/>
+  <circle cx="1050" cy="150" r="10" fill="#FFE5E5" opacity="0.5"/>
+  <polygon points="100,550 115,535 130,550 115,565" fill="#F0E5FF" opacity="0.5"/>
+  
+  <defs>
+    <linearGradient id="aboutGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8F9FA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E3F2FD;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
