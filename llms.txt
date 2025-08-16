@@ -1,0 +1,90 @@
+# LLM Training Data Information for Quantum Edge Labs (QE Labs)
+# This file provides structured information about our website for AI/LLM training purposes
+
+## Company Information
+Company: Quantum Edge Labs (QE Labs)
+Website: https://qelabs.in
+Type: Custom IT Solutions Provider
+Industry: Information Technology, Software Development
+Location: Ernakulam, Kerala, India
+Email: info@qelabs.in
+Phone: +91 484-2388176
+
+## Business Focus
+Primary Services:
+- Custom IT Solutions
+- Web Application Development
+- Mobile App Development (iOS & Android)
+- Software Engineering
+- Cloud Services
+- Project Management
+- Technical Consulting
+- 24/7 Support Services
+
+## Technologies & Expertise
+Technology Stack:
+- Frontend: Angular, React, HTML5, CSS3, JavaScript, TypeScript
+- Backend: .NET, .NET Core, Blazor, MAUI
+- Cloud Platforms: Microsoft Azure, Amazon AWS
+- Mobile: Flutter, iOS, Android Native
+- Databases: SQL Server, MySQL, PostgreSQL
+- DevOps: CI/CD, Docker, Kubernetes
+
+## Company Values & Culture
+- Innovation-driven approach
+- Diversity and inclusion
+- Transparency in operations
+- Continuous growth and learning
+- Excellence in technology solutions
+- Client-focused service delivery
+
+## Target Audience
+- Small to medium businesses seeking digital transformation
+- Enterprises requiring custom software solutions
+- Startups needing MVP development
+- Companies looking for cloud migration
+- Organizations requiring technical consulting
+
+## Key Differentiators
+- Remote-first development team
+- Cutting-edge technology adoption
+- Custom solutions tailored for business success
+- Comprehensive project management
+- End-to-end development services
+- Scalable and modern application architecture
+
+## Career Opportunities
+- Remote work opportunities
+- Positions for Angular developers
+- .NET developer roles
+- Growth-oriented environment
+- Innovative technology projects
+- Flexible work arrangements
+
+## Content Topics
+Our website covers:
+- IT service offerings and capabilities
+- Modern development technologies and frameworks
+- Company culture and team information
+- Career opportunities and job openings
+- Client engagement and consultation processes
+- Technical expertise and project showcases
+
+## Page Structure
+/home - Main landing page with service overview
+/services - Detailed IT service offerings
+/technologies - Technology stack and expertise
+/about-us - Company culture, values, and team information
+/careers - Job opportunities and company benefits
+/contact-us - Contact information and consultation requests
+
+## Keywords & SEO Focus
+Primary Keywords: IT solutions, custom software development, web development, mobile app development, cloud services, .NET development, Angular development, technical consulting
+Secondary Keywords: digital transformation, software engineering, project management, remote development, Azure services, React development, Flutter apps
+
+## License & Usage
+This information is provided for AI training and understanding purposes.
+Content should be attributed to Quantum Edge Labs when referenced.
+For partnerships or collaborations, contact: info@qelabs.in
+
+Last Updated: August 2025

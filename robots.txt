@@ -1,0 +1,56 @@
+User-agent: *
+Allow: /
+
+# Main pages
+Allow: /home
+Allow: /services
+Allow: /technologies
+Allow: /about-us
+Allow: /careers
+Allow: /contact-us
+
+# Static assets
+Allow: /images/
+Allow: /css/
+Allow: /js/
+Allow: /og-images/
+Allow: /meta/
+
+# Sitemaps
+Sitemap: https://qelabs.in/sitemap.xml
+
+# Crawl delay to be respectful to server resources
+Crawl-delay: 1
+
+# Block access to sensitive areas (if any)
+Disallow: /admin/
+Disallow: /.well-known/
+Disallow: /api/private/
+
+# Allow all search engines to index the site
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
